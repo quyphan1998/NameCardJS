@@ -1,0 +1,12 @@
+.card-name
+{
+   width: 150px;
+   height: 100px;
+    display: flex;
+    margin-right: 10px;
+    
+}
+i
+{
+    font-size: 40px;
+}
